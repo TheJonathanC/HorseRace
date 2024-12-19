@@ -1,4 +1,4 @@
-import time, random
+import time, random #import
 
 def race(horses, track_length=50):
     progress = [0] * len(horses)
